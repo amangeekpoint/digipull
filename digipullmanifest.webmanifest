@@ -16,7 +16,7 @@
   ],
   "start_url": "https://www.digipull.in",
   "background_color": "#2d94f3",
-  "display": "standalone",
+  "display": "minimal-ui",
   "scope": "/",
   "theme_color": "#2d94f3",
   "shortcuts": [
@@ -31,7 +31,8 @@
       "name": "About us",
       "short_name": "About",
       "description": "Digipull Marketing is a team of specialist who stay focusedon creating best environment for Digital Marketing Services & work on your Brand Building.",
-      "url": "https://cdn.jsdelivr.net/gh/amangeekpoint/digipull/About%20us.png"
+      "url": "https://www.digipull.in/2017/11/about-us.html"
+      
     }
   ]
 }
