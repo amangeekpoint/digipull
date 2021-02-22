@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1053px" height="353px" viewBox="0 0 1053 353" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="8.07850189%" y1="92.0969262%" x2="94.4216217%" y2="3.48209548%" id="linearGradient-1">
+            <stop stop-color="#D1E3FF" offset="0%"></stop>
+            <stop stop-color="#FEFEFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="38.349354%" y1="71.7360289%" x2="94.4216217%" y2="3.48209548%" id="linearGradient-2">
+            <stop stop-color="#D1E3FF" offset="0%"></stop>
+            <stop stop-color="#FEFEFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="SB-WEB-DESIGN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(0.000000, -12.000000)">
+            <g id="design" transform="translate(24.500000, 284.500000) scale(-1, 1) translate(-24.500000, -284.500000) translate(0.000000, 265.000000)">
+                <polygon id="Fill-3-Copy" fill="url(#linearGradient-1)" transform="translate(24.628269, 19.952694) rotate(19.000000) translate(-24.628269, -19.952694) " points="19.9841573 7 4 32.9053873 29.7610634 32.9053873 45.2565373 7"></polygon>
+                <circle id="Oval-4" fill="#FFFFFF" cx="25.5" cy="19.5" r="4.5"></circle>
+            </g>
+            <g id="design" transform="translate(251.523648, 35.495843) scale(-1, 1) rotate(-1.000000) translate(-251.523648, -35.495843) translate(227.523648, 15.995843)" fill="url(#linearGradient-2)">
+                <polygon id="Fill-3-Copy" transform="translate(24.022968, 19.733050) rotate(19.000000) translate(-24.022968, -19.733050) " points="19.3788567 6.78035625 3.39469937 32.6857435 29.1557628 32.6857435 44.6512366 6.78035625"></polygon>
+            </g>
+            <g id="design" transform="translate(403.500000, 350.500000) scale(-1, 1) rotate(11.000000) translate(-403.500000, -350.500000) translate(379.000000, 331.000000)">
+                <polygon id="Fill-3-Copy" fill="url(#linearGradient-1)" transform="translate(24.628269, 19.952694) rotate(19.000000) translate(-24.628269, -19.952694) " points="19.9841573 7 4 32.9053873 29.7610634 32.9053873 45.2565373 7"></polygon>
+                <circle id="Oval-4" fill="#FFFFFF" cx="25.5" cy="19.5" r="3.5"></circle>
+            </g>
+            <g id="design" transform="translate(1029.500000, 226.500000) scale(-1, 1) rotate(-2.000000) translate(-1029.500000, -226.500000) translate(1005.000000, 207.000000)">
+                <polygon id="Fill-3-Copy" fill="url(#linearGradient-1)" transform="translate(24.628269, 19.952694) rotate(19.000000) translate(-24.628269, -19.952694) " points="19.9841573 7 4 32.9053873 29.7610634 32.9053873 45.2565373 7"></polygon>
+                <circle id="Oval-4" fill="#FFFFFF" cx="25.5" cy="19.5" r="3.5"></circle>
+            </g>
+            <g id="design" transform="translate(713.386264, 162.252524) scale(-1, 1) rotate(18.000000) translate(-713.386264, -162.252524) translate(689.386264, 142.752524)" fill="url(#linearGradient-1)">
+                <polygon id="Fill-3-Copy" transform="translate(23.878659, 19.416102) rotate(19.000000) translate(-23.878659, -19.416102) " points="19.2345472 6.46340856 3.25038988 32.3687958 29.0114533 32.3687958 44.5069272 6.46340856"></polygon>
+            </g>
+            <g id="design" transform="translate(858.500000, 25.500000) scale(-1, 1) rotate(-20.000000) translate(-858.500000, -25.500000) translate(838.987594, 6.000000)">
+                <polygon id="Fill-3-Copy" fill="url(#linearGradient-1)" transform="translate(19.614562, 19.952694) rotate(19.000000) translate(-19.614562, -19.952694) " points="15.9158773 7 3.18569897 32.9053873 23.7024473 32.9053873 36.043426 7"></polygon>
+                <ellipse id="Oval-4" fill="#FFFFFF" cx="20.0316368" cy="19.4700807" rx="2.38927423" ry="3"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
